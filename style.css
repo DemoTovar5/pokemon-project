@@ -1,9 +1,15 @@
 h1 {
     text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: #dc0d0d;
 }
 
 #catch-btn{
     width: 20%;
     margin-left: 40%;
     margin-right: 30%;
+}
+
+body{
+    background-image:url("img/pokemon.png");
 }
